@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398461648150",
+    "project_id": "wotcher-4892f",
+    "storage_bucket": "wotcher-4892f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398461648150:android:44510bce436f529fd92437",
+        "android_client_info": {
+          "package_name": "com.example.wotcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398461648150-ck64tt5k94ro5uks2rrs3247m30gpbup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOs_q_J94YMi6CuG_vyE4FWqDQXAqX4CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398461648150-ck64tt5k94ro5uks2rrs3247m30gpbup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
